@@ -1,0 +1,7 @@
+venv/
+athlete_events.csv
+noc_region.csv
+noc_regions.csv
+.idea/
+_pycache_/
+__pycache__/
