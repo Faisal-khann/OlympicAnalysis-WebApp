@@ -9,4 +9,9 @@
 
 streamlit
 plotly
-
+matplotlib
+seaborn
+scipy
+pillow
+numpy
+pandas
