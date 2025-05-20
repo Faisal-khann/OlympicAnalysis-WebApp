@@ -11,7 +11,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## ❓ Business/Research Questions
+## Business/Research Questions
 
 - How has **medal dominance** shifted among countries over time?
 - What **demographic factors** (age, height, weight) correlate with Olympic success?
@@ -20,7 +20,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 
 - **Source:** [120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 - **Records:** ~117,082 entries  
@@ -37,7 +37,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python (Pandas, NumPy):** Data cleaning, transformation, aggregation
 - **Matplotlib & Seaborn:** Data visualization (bar charts, heatmaps, line plots)
@@ -46,26 +46,26 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 🔍 Key Analyses & Insights
+## Key Analyses & Insights
 
-### 1. 🥇 Medal Trends by Country
+### 1. Medal Trends by Country
 - **Top Nations:** USA, USSR/Russia, Germany, Great Britain
 - **Emerging Powers:** China saw a rapid rise post-1984
 - **Home Advantage:** Host nations see a **20–30% increase** in medals  
   _E.g., UK in 2012, Australia in 2000_
 
-### 2. 🚺 Gender Participation Over Time
+### 2. Gender Participation Over Time
 - **1896:** Only male athletes
 - **2016:** ~45% female participation  
   _High representation in gymnastics, swimming, athletics_
 
-### 3. 🧬 Athlete Demographics & Performance
+### 3. Athlete Demographics & Performance
 - **Optimal Age:** 20–30 years old win the most medals
 - **Height/Weight Trends:**  
   - Taller athletes: 🏀 Basketball, 🚣 Rowing  
   - Lighter athletes: 🏃 Marathon, 🤸 Gymnastics
 
-### 4. 🏃‍♂️ Sport-Specific Insights
+### 4. Sport-Specific Insights
 - **Most Competitive Sports:** Athletics & Swimming
 - **Country-Specific Dominance:**  
   - Kenya: Long-distance running  
@@ -73,16 +73,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 📊 Dashboard & Visualizations
-
-- **🎯 Medal Tracker:** Interactive map showing country-wise performance
-- **📈 Gender Participation Timeline:** Line chart showing female athlete growth
-- **📏 Athlete Demographics:** Age/Height/Weight by sport (line chart)
-- **🔥 Events Over the Years:** Heatmap showing number of events per sport over time
-
----
-
-## ✅ Conclusion & Recommendations
+## Conclusion & Recommendations
 
 - **Geopolitical Shifts** (e.g., USSR dissolution, China's rise) affect medal tallies
 - **Gender Parity** has improved significantly, but gaps remain in some sports
@@ -90,14 +81,14 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 
 - Integrate **economic indicators** like GDP and sports funding
 - Develop a **predictive model** for medal forecasts in future Olympic Games
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 - ✅ Demonstrates skills in **data cleaning, EDA, and visualization**
 - ✅ Uses **real-world, multi-dimensional data**
@@ -106,7 +97,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ---
 
-## 🚀 Streamlit Web App
+## Streamlit Web App
 
 👉 [Click here to view the live app](https://olympicanalysis-webapp.onrender.com)
 
