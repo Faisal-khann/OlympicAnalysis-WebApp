@@ -99,7 +99,7 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ## Streamlit Web App
 
-👉 [Click here to view the live app](https://olympicanalysis-webapp.onrender.com)
+👉 [Click here to view the live app]([https://olympicanalysis-webapp.onrender.com](https://faisal-khann-olympicanalysis-webapp-app-84lz5c.streamlit.app/))
 
 ---
 
