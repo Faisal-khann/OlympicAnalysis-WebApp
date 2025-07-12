@@ -1,10 +1,10 @@
-# 🏅 Olympic Games Analysis (1896–2016)
+# Olympic Games Analysis (1896–2016)
 
 This project explores **120 years of Olympic history** — from Athens 1896 to Rio 2016 — to uncover trends in athlete performance, national dominance, gender participation, and the impact of hosting the Games. Using **exploratory data analysis (EDA)** and **interactive visualizations**, this analysis provides key insights for sports analysts and federations.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - **Goal:** Analyze Olympic data to identify patterns in **medal distribution**, **athlete demographics**, **gender participation**, and **host nation advantage**.
 - **Approach:** Used Python-based tools for data cleaning, transformation, statistical analysis, and visualization. Deployed an interactive web app using Streamlit for dynamic exploration.
@@ -62,8 +62,8 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 ### 3. Athlete Demographics & Performance
 - **Optimal Age:** 20–30 years old win the most medals
 - **Height/Weight Trends:**  
-  - Taller athletes: 🏀 Basketball, 🚣 Rowing  
-  - Lighter athletes: 🏃 Marathon, 🤸 Gymnastics
+  - Taller athletes: Basketball, Rowing  
+  - Lighter athletes: Marathon, Gymnastics
 
 ### 4. Sport-Specific Insights
 - **Most Competitive Sports:** Athletics & Swimming
@@ -90,10 +90,10 @@ This project explores **120 years of Olympic history** — from Athens 1896 to R
 
 ## Why This Project?
 
-- ✅ Demonstrates skills in **data cleaning, EDA, and visualization**
-- ✅ Uses **real-world, multi-dimensional data**
-- ✅ Delivers **actionable insights** for analysts, teams, and federations
-- ✅ Includes a **deployed web application** for interactivity
+- Demonstrates skills in **data cleaning, EDA, and visualization**
+- Uses **real-world, multi-dimensional data**
+- Delivers **actionable insights** for analysts, teams, and federations
+- Includes a **deployed web application** for interactivity
 
 ---
 
