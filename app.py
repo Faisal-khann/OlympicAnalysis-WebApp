@@ -155,5 +155,16 @@ if user_menu == 'Athlete-wise Analysis':
     fig.update_layout(autosize=False, width=1000, height=600)
     st.plotly_chart(fig)
 
+# Footer
+st.markdown("""<hr style="margin-top: 50px;"/>""", unsafe_allow_html=True)
+
+st.markdown(
+    """
+    <div style="text-align: center; padding: 10px; font-size: 14px;">
+        Made with <span style="color: #e25555;">❤️</span> by <strong>Faisal Khan</strong>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 
