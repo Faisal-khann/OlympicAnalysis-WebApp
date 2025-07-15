@@ -1,8 +1,10 @@
 venv/
 .idea/
 __pycache__/
-/Olympic_rings.png
-athlete_events.csv
-noc_regions.csv
+.devcontainer/
 
 
+.devcontainer/
+*.png
+*.png
+.devcontainer/
