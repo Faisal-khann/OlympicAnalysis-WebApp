@@ -155,7 +155,7 @@ if user_menu == 'Athlete-wise Analysis':
     fig.update_layout(autosize=False, width=1000, height=600)
     st.plotly_chart(fig)
 
-# Footer
+# Footer Section
 st.markdown("""<hr style="margin-top: 50px;"/>""", unsafe_allow_html=True)
 
 st.markdown(
