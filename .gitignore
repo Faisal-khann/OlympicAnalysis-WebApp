@@ -1,10 +1,3 @@
 venv/
 .idea/
 __pycache__/
-.devcontainer/
-
-
-.devcontainer/
-*.png
-*.png
-.devcontainer/
