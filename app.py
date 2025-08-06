@@ -10,8 +10,8 @@ from PIL import Image
 
 import scipy 
 # import csv files
-df = pd.read_csv('athlete_events.csv')
-region_df = pd.read_csv('noc_regions.csv')
+df = pd.read_csv('csv/athlete_events.csv')
+region_df = pd.read_csv('csv/noc_regions.csv')
 
 df = preprocessor.preprocess(df, region_df)
 
